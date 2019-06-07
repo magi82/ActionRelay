@@ -14,4 +14,5 @@ This is easy to use and simple.
   s.source_files = 'Sources/*.swift'
   s.dependency 'RxSwift', '~> 4.0'
   s.dependency 'RxCocoa', '~> 4.0'
+  s.swift_versions = [4.2]
 end
